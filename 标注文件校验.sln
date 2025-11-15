@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "标注文件校验", "标注文件校验.csproj", "{22F489AC-FE75-40D4-A2F1-4C249A922520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F489AC-FE75-40D4-A2F1-4C249A922520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F489AC-FE75-40D4-A2F1-4C249A922520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F489AC-FE75-40D4-A2F1-4C249A922520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F489AC-FE75-40D4-A2F1-4C249A922520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A251DC70-7C3C-4C35-903D-92A3E3F0FEFC}
+	EndGlobalSection
+EndGlobal
